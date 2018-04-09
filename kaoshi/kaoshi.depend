@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521794688 source:d:\mycppspace\kaoshi\main.c
+	<stdio.h>
+	<string.h>
+

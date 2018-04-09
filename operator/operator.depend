@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1522622368 source:d:\mycppspace\operator\main.cpp
+
+1522703505 source:d:\mycppspace\operator\雷内operator.cpp
+
+1522704450 source:d:\mycppspace\operator\1元运算符.cpp
+
+1522705229 source:d:\mycppspace\operator\ostream.cpp
+
+1522706321 source:d:\mycppspace\operator\istream.cpp
+
+1522707602 source:d:\mycppspace\operator\赋值运算符.cpp
+
+1522709184 source:d:\mycppspace\operator\下标运算.cpp
+
+1522710301 source:d:\mycppspace\operator\递增递减.cpp
+
+1522710802 source:d:\mycppspace\operator\重载类型转换.cpp
+	<iostream>
+

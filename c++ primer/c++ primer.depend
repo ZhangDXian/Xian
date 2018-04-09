@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520372624 source:d:\mycppspace\c++ primer\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1519901330 d:\mycppspace\c++ primer\sales_item.h
+	<iostream>
+	<string>
+

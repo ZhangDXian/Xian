@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522793182 source:d:\mycppspace\继承\main.cpp
+
+1522794568 source:d:\mycppspace\继承\继承限定词.cpp
+
+1522795248 source:d:\mycppspace\继承\构造函数的继承.cpp
+
+1522796061 source:d:\mycppspace\继承\有参数构造函数的继承.cpp
+
+1522796709 source:d:\mycppspace\继承\继承中的析构函数.cpp
+
+1522880212 source:d:\mycppspace\继承\覆盖.cpp
+
+1522881533 source:d:\mycppspace\继承\虚函数.cpp
+
+1522882101 source:d:\mycppspace\继承\虚函数的特点.cpp
+	<iostream>
+
